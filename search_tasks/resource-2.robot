@@ -21,7 +21,6 @@ ${COMPANIES_DIRECTORY}=    ${CURDIR}${/}output${/}companies/
 ${COMPANIES_LOCATOR}=    div[class="panel-body"]
 ${number_of_companies}=    30
 
-
 *** Keywords ***
 Input Industry
     [Arguments]    ${industry}
