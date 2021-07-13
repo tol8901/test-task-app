@@ -12,7 +12,7 @@ Library           RPA.RobotLogListener
 *** Variables ***
 ${SERVER}         www.aihitdata.com
 ${BROWSER}        Firefox
-${DELAY}          0
+${DELAY}          2s
 ${industry}       mortgage 
 ${location}       USA
 ${SEARCH URL}     httpS://${SERVER}/
